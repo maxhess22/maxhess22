@@ -1,6 +1,6 @@
 ### Hi there 👋
  Proyects:
-* [Proyecto css grid layout](https://maxhess22.github.io/proyecto-grid.github.io/)
+* [Proyecto css Grid Layout](https://maxhess22.github.io/proyecto-grid.github.io/)
 * [Proyecto Google clone](https://maxhess22.github.io/proyectoGoogle-clone/)
 
 <!--
