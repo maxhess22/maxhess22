@@ -4,7 +4,7 @@
 - Css
 - Bootstrap
 - Javascript
-- php
+
 
 ## Proyects:
 * [Proyecto css Grid Layout](https://maxhess22.github.io/proyecto-grid.github.io/)
