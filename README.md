@@ -4,6 +4,9 @@
 - Css
 - Bootstrap
 - Javascript
+- Sass
+- pug
+- React
 
 
 ## Proyects:
