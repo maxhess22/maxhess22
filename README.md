@@ -4,9 +4,8 @@
 - Css
 - Bootstrap
 - Javascript
-- Sass
-- pug
-- React
+- Vue
+- Laravel
 
 ### [Portfolio](https://maxhess22.github.io/portafolio/) 🚀
 
